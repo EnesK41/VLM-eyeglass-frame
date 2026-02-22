@@ -1,0 +1,18 @@
+# Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam (Virtual Environment)
+venv/
+env/
+ENV/
+
+# Models
+checkpoint/
+models/
+
+# Output pictures if exist
+result.jpg
+output.jpg
+images/
