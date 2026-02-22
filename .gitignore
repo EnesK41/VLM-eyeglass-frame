@@ -15,4 +15,5 @@ models/
 # Output pictures if exist
 result.jpg
 output.jpg
-images/
+data/
+
